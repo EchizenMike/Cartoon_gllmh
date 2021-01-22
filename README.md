@@ -6,7 +6,7 @@ http://www.gllmh.com
 使用方法：  
 ①：打开网站后选择需要下载的漫画  
 ②：在选择的漫画首页复制完整地址（例如：http://www.gllmh.com/jqsz/6890.html 如图所示） 
-![image](https://github.com/EchizenMike/Cartoon_gllmh/blob/main/img1.JPG)
+![image](https://github.com/EchizenMike/Cartoon_gllmh/blob/main/img1.JPG)  
 ③：漫画自动下载至与源文件同级目录的image文件夹中  
 
 Ps：下载的内容供个人使用，请勿传播。  
