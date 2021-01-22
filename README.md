@@ -2,7 +2,7 @@
 鬼萝丽漫画自动下载
 
 网站地址：  
-http://www.gllmh.com
+http://www.gllmh.com  
 使用方法：  
 ①：打开网站后选择需要下载的漫画  
 ②：在选择的漫画首页复制完整地址（例如：http://www.gllmh.com/jqsz/6890.html ）  
